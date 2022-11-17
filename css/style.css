@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+body {
+  font-family: "lato", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
